@@ -1,0 +1,14 @@
+body, h1, p, span, a, li {
+  color: #005183;
+}
+
+h1 {
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+  -webkit-text-decoration-style: solid;
+          text-decoration-style: solid;
+  -webkit-text-decoration-color: #CCAA11;
+          text-decoration-color: #CCAA11;
+  background-color: bluelight;
+}
+/*# sourceMappingURL=styles.css.map */
